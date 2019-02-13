@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="box" class="w1200">
+  <div id="top" class="w1200"> 
+    <h1></h1>
+  </div>
+  <div id="daohang" class="w1200"> 
+    <ul>
+      <li><a href="../html/index.html">首页</a></li>
+      <li><a href="../html/lishi.html">新年习俗</a></li>
+      <li><a href="../html/techan.html">新年美景</a></li>
+      <li><a href="../html/meijing.html">新年美食</a></li>
+      <li><a href="../html/wenhua.html">南充历史</a></li>
+      <li><a href="../html/mingren.html">南充特产</a></li>
+    </ul>
+  </div>
+  <div id="main"><!-- TemplateBeginEditable name="maintext" --> maintext <!-- TemplateEndEditable --> </div>
+  <div id="banquan"> xxxxx  </div>
+</div>
+</body>
+</html>

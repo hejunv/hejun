@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2{
+	padding:20px 0px 0px 30px;
+	}
+h3{
+	padding:20px 0px 0px 30px;
+	}
+#shang{
+	}
+#zuo{
+	float:left;
+	width:400px;
+	
+	}
+
+#zhong{
+	width:440px;
+	float:left;
+	border-left:#666 solid 1px;
+	border-right:#666 solid 1px;
+	
+}
+#you{
+	float:right;
+	width:340px
+	}
+.img{
+	padding: 20px 0px 0px 20px;
+	}

@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+hr {
+	size: 1px;
+	text-align: left;
+	width: 1170px;
+	margin-left: 10px;
+}
+#zhongzuo {
+	width: 600px;
+	float: left;
+}
+#zhongyou {
+	width: 600px;
+	float: right;
+}
+.tup {
+	float:right;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
